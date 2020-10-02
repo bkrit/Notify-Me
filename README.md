@@ -4,7 +4,7 @@ This is an application that sends an email to a list of registered users wheneve
 # Requirements
    - An AWS account
    - SendGrid API
-   - Install Putty for SSH and Filezilla for FTP to your server instance
+   - Install Putty for SSH and Filezilla for FTP to your server instance (For Windows), for Linux distributions, the in-built networking tools are good enough.
 
 # Installations
 
